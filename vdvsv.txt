@@ -1,0 +1,1 @@
+C:\Users\admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\admin\AppData\Local\atom\bin;C:\Users\admin\AppData\Roaming\npm
